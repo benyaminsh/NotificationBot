@@ -1,3 +1,6 @@
 # NotificationBot
-bot ersal not nvshte shode ba pyrogram !
+Notification sending robot with pyrogram !
+
+
+
 #pip install pyrogram
